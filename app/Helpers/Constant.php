@@ -1,0 +1,12 @@
+<?php
+
+
+const ITEM_ACTIVE = 1;
+const ITEM_INACTIVE = 0;
+
+const HTTP_SUCCESS = 200;
+const HTTP_EXPECTATION_FAILED = 422;
+
+const DEFAULT_DATE_DISPLAY_FORMAT = 'd M Y';
+
+?>
